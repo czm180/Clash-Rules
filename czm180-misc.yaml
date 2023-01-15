@@ -1,5 +1,5 @@
 payload:
-  # 内容：Developer 开发者常用国外网站、镜像和论坛&Discord
+  # 内容：开发&NSFW
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,docker.com
@@ -53,6 +53,9 @@ payload:
   - DOMAIN-SUFFIX,discordstatus.com
   - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
   - DOMAIN-SUFFIX,watchanimeattheoffice.com
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-KEYWORD,iwara
   - IP-CIDR,20.205.243.166/32,no-resolve
   - IP-CIDR,13.229.188.59/32,no-resolve
   - IP-CIDR,13.250.177.223/32,no-resolve
