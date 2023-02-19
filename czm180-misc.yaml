@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-KEYWORD,iwara
+  - DOMAIN-SUFFIX,openai.com
   - IP-CIDR,20.205.243.166/32,no-resolve
   - IP-CIDR,13.229.188.59/32,no-resolve
   - IP-CIDR,13.250.177.223/32,no-resolve
