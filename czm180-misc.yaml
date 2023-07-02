@@ -8,9 +8,8 @@ payload:
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,api.github.com
-  - DOMAIN-SUFFIX,objects.githubusercontent.com
   - DOMAIN-SUFFIX,raw.github.com
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,jitpack.io
