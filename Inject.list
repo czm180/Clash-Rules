@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,midnight.im
 DOMAIN-SUFFIX,nixware.cc
 # fatality
 DOMAIN-SUFFIX,fatality.win
+# gamesense
+DOMAIN-KEYWORD,gamesense
+DOMAIN-KEYWORD,skeet
