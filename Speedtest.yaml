@@ -6,6 +6,7 @@ payload:
   # - USER-AGENT,SpeedTest*
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN,speed.dler.io
 
   # > Speed Test by Cloudflare
