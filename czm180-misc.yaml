@@ -1,5 +1,6 @@
 payload:
   # 内容：开发&NSFW
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,elastic.co
