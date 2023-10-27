@@ -1,82 +1,82 @@
-- DOMAIN-SUFFIX,steamcontent.com
-- DOMAIN-SUFFIX,apache.org
-- DOMAIN-SUFFIX,docker.com
-- DOMAIN-SUFFIX,elastic.co
-- DOMAIN-SUFFIX,elastic.com
-- DOMAIN-SUFFIX,gcr.io
-- DOMAIN-SUFFIX,github.com
-- DOMAIN-SUFFIX,api.github.com
-- DOMAIN-SUFFIX,raw.github.com
-- DOMAIN-SUFFIX,githubusercontent.com
-- DOMAIN-SUFFIX,gitlab.com
-- DOMAIN-SUFFIX,gitlab.io
-- DOMAIN-SUFFIX,jitpack.io
-- DOMAIN-SUFFIX,maven.org
-- DOMAIN-SUFFIX,medium.com
-- DOMAIN-SUFFIX,mvnrepository.com
-- DOMAIN-SUFFIX,quay.io
-- DOMAIN-SUFFIX,reddit.com
-- DOMAIN-SUFFIX,redhat.com
-- DOMAIN-SUFFIX,sonatype.org
-- DOMAIN-SUFFIX,sourcegraph.com
-- DOMAIN-SUFFIX,spring.io
-- DOMAIN-SUFFIX,spring.net
-- DOMAIN-SUFFIX,stackoverflow.com
-- DOMAIN-SUFFIX,airhorn.solutions
-- DOMAIN-SUFFIX,airhornbot.com
-- DOMAIN-SUFFIX,bigbeans.solutions
-- DOMAIN-SUFFIX,dis.gd
-- DOMAIN-SUFFIX,discord-activities.com
-- DOMAIN-SUFFIX,discord.co
-- DOMAIN-SUFFIX,discord.com
-- DOMAIN-SUFFIX,discord.design
-- DOMAIN-SUFFIX,discord.dev
-- DOMAIN-SUFFIX,discord.gg
-- DOMAIN-SUFFIX,discord.gift
-- DOMAIN-SUFFIX,discord.gifts
-- DOMAIN-SUFFIX,discord.media
-- DOMAIN-SUFFIX,discord.new
-- DOMAIN-SUFFIX,discord.store
-- DOMAIN-SUFFIX,discord.tools
-- DOMAIN-SUFFIX,discordactivities.com
-- DOMAIN-SUFFIX,discordapp.com
-- DOMAIN-SUFFIX,discordapp.io
-- DOMAIN-SUFFIX,discordapp.net
-- DOMAIN-SUFFIX,discordapp.page.link
-- DOMAIN-SUFFIX,discordcdn.com
-- DOMAIN-SUFFIX,discordmerch.com
-- DOMAIN-SUFFIX,discordpartygames.com
-- DOMAIN-SUFFIX,discordsays.com
-- DOMAIN-SUFFIX,discordstatus.com
-- DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
-- DOMAIN-SUFFIX,watchanimeattheoffice.com
-- DOMAIN-SUFFIX,e-hentai.org
-- DOMAIN-SUFFIX,exhentai.org
-- DOMAIN-KEYWORD,iwara
-- IP-CIDR,20.205.243.166/32,no-resolve
-- IP-CIDR,13.229.188.59/32,no-resolve
-- IP-CIDR,13.250.177.223/32,no-resolve
-- IP-CIDR,15.164.81.167/32,no-resolve
-- IP-CIDR,52.74.223.119/32,no-resolve
-- IP-CIDR,52.78.231.108/32,no-resolve
-- IP-CIDR,192.30.252.122/32,no-resolve
-- IP-CIDR,192.30.252.128/32,no-resolve
-- IP-CIDR,192.30.252.129/32,no-resolve
-- IP-CIDR,192.30.252.130/32,no-resolve
-- IP-CIDR,192.30.252.131/32,no-resolve
-- IP-CIDR,192.30.253.112/32,no-resolve
-- IP-CIDR,192.30.253.113/32,no-resolve
-- IP-CIDR,192.30.255.112/32,no-resolve
-- IP-CIDR,192.30.255.113/32,no-resolve
-- IP-CIDR,151.101.76.133/32,no-resolve
-- IP-CIDR,151.101.108.133/32,no-resolve
-- IP-CIDR,151.101.228.133/32,no-resolve
-- IP-CIDR,185.199.108.133/32,no-resolve
-- IP-CIDR,185.199.109.133/32,no-resolve
-- IP-CIDR,185.199.110.133/32,no-resolve
-- IP-CIDR,185.199.111.133/32,no-resolve
-- IP-CIDR,192.30.255.113/32,no-resolve
-- IP-CIDR,13.209.163.61/32,no-resolve
-- IP-CIDR,20.205.243.168/32,no-resolve
-- IP-CIDR,192.30.253.116/32,no-resolve
-- IP-CIDR,192.30.253.117/32,no-resolve
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,elastic.co
+DOMAIN-SUFFIX,elastic.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,raw.github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,jitpack.io
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mvnrepository.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,sonatype.org
+DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,spring.io
+DOMAIN-SUFFIX,spring.net
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,airhorn.solutions
+DOMAIN-SUFFIX,airhornbot.com
+DOMAIN-SUFFIX,bigbeans.solutions
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.page.link
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discordstatus.com
+DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+DOMAIN-SUFFIX,watchanimeattheoffice.com
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-KEYWORD,iwara
+IP-CIDR,20.205.243.166/32,no-resolve
+IP-CIDR,13.229.188.59/32,no-resolve
+IP-CIDR,13.250.177.223/32,no-resolve
+IP-CIDR,15.164.81.167/32,no-resolve
+IP-CIDR,52.74.223.119/32,no-resolve
+IP-CIDR,52.78.231.108/32,no-resolve
+IP-CIDR,192.30.252.122/32,no-resolve
+IP-CIDR,192.30.252.128/32,no-resolve
+IP-CIDR,192.30.252.129/32,no-resolve
+IP-CIDR,192.30.252.130/32,no-resolve
+IP-CIDR,192.30.252.131/32,no-resolve
+IP-CIDR,192.30.253.112/32,no-resolve
+IP-CIDR,192.30.253.113/32,no-resolve
+IP-CIDR,192.30.255.112/32,no-resolve
+IP-CIDR,192.30.255.113/32,no-resolve
+IP-CIDR,151.101.76.133/32,no-resolve
+IP-CIDR,151.101.108.133/32,no-resolve
+IP-CIDR,151.101.228.133/32,no-resolve
+IP-CIDR,185.199.108.133/32,no-resolve
+IP-CIDR,185.199.109.133/32,no-resolve
+IP-CIDR,185.199.110.133/32,no-resolve
+IP-CIDR,185.199.111.133/32,no-resolve
+IP-CIDR,192.30.255.113/32,no-resolve
+IP-CIDR,13.209.163.61/32,no-resolve
+IP-CIDR,20.205.243.168/32,no-resolve
+IP-CIDR,192.30.253.116/32,no-resolve
+IP-CIDR,192.30.253.117/32,no-resolve
