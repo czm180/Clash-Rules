@@ -3,11 +3,11 @@ PROCESS-NAME,csgo.exe
 # DOMAIN-SUFFIX,magicsense.top
 DOMAIN-SUFFIX,ormroh.xyz
 DOMAIN-SUFFIX,laiiio.xyz
-DOMAIN,api.huacloud.xyz
-DOMAIN,kuromisubs.shop
-DOMAIM,tagcdnsub.work
+DOMAIN-SUFFIX,api.huacloud.xyz
+DOMAIN-SUFFIX,kuromisubs.shop
+DOMAIM-SUFFIX,tagcdnsub.work
 DOMAIN-SUFFIX,met0.top
-DOMAIM,egesyx.lol
+DOMAIM-SUFFIX,egesyx.lol
 DOMAIN-SUFFIX,goodme.pro
 DOMAIN-SUFFIX,xn--7or611i.xyz
 DOMAIN-SUFFIX,doki.love
