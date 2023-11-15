@@ -4,7 +4,7 @@ payload:
 
   # > Speedtest by Ookla
   # - USER-AGENT,SpeedTest*
-  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN,speed.dler.io
