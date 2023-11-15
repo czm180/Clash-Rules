@@ -1,0 +1,11 @@
+# > Fast
+DOMAIN-SUFFIX,fast.com
+
+# > Speedtest by Ookla
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-KEYWORD,ookla
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN,speed.dler.io
+
+# > Speed Test by Cloudflare
+DOMAIN-SUFFIX,speed.cloudflare.com
