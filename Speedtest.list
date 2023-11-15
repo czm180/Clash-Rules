@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-KEYWORD,ookla
 DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,fdcservers.net
+DOMAIN-SUFFIX,contabo.net
+DOMAIN-SUFFIX,icscoe.jp
 DOMAIN,speed.dler.io
 
 # > Speed Test by Cloudflare
