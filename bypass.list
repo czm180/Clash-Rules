@@ -12,3 +12,14 @@ DOMAIN-SUFFIX,goodme.pro
 DOMAIN-SUFFIX,xn--7or611i.xyz
 DOMAIN-SUFFIX,doki.love
 DOMAIN-SUFFIX,plz-ddos.com
+# Qian-Niu
+PROCESS-NAME,AliWorkbench.exe
+PROCESS-NAME,AliWorkbenchTask.exe
+PROCESS-NAME,AlibabaProtectCon.exe
+PROCESS-NAME,AliRender.exe
+PROCESS-NAME,arphaCrashReport64.exe
+PROCESS-NAME,new_AliWorkbench.exe
+PROCESS-NAME,new_AliWorkbenchTask.exe
+PROCESS-NAME,pc-sdk-setup.exe
+PROCESS-NAME,windmillworker.exe
+PROCESS-NAME,WWCmd.exe
