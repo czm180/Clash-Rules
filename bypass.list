@@ -8,9 +8,7 @@ DOMAIN-SUFFIX,kuromisubs.shop
 DOMAIM-SUFFIX,tagcdnsub.work
 DOMAIN-SUFFIX,met0.top
 DOMAIM-SUFFIX,egesyx.lol
-DOMAIN-SUFFIX,goodme.pro
 DOMAIN-SUFFIX,xn--7or611i.xyz
-DOMAIN-SUFFIX,doki.love
 DOMAIN-SUFFIX,plz-ddos.com
 # Qian-Niu
 PROCESS-NAME,AliWorkbench.exe
@@ -23,3 +21,5 @@ PROCESS-NAME,new_AliWorkbenchTask.exe
 PROCESS-NAME,pc-sdk-setup.exe
 PROCESS-NAME,windmillworker.exe
 PROCESS-NAME,WWCmd.exe
+#Lanzou
+DOMAIN-KEYWORD,lanzo
