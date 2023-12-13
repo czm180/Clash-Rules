@@ -1,5 +1,6 @@
 # csgo-bypass
 PROCESS-NAME,csgo.exe
+PROCESS-NAME,cs2.exe
 # DOMAIN-SUFFIX,magicsense.top
 DOMAIN-SUFFIX,ormroh.xyz
 DOMAIN-SUFFIX,laiiio.xyz
