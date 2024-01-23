@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,fecurity.pro
 DOMAIN-SUFFIX,auth.btxo.cn
 # co
 DOMAIN-SUFFIX,cobalt.solutions
+# cola
+IP-CIDR,185.71.65.217/32
