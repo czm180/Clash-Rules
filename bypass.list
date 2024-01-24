@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,egesyx.lol
 DOMAIN-SUFFIX,xn--7or611i.xyz
 DOMAIN-SUFFIX,plz-ddos.com
 DOMAIN-SUFFIX,5clm.com
+IP-CIDR,38.47.221.60/32
 # Qian-Niu
 PROCESS-NAME,AliWorkbench.exe
 PROCESS-NAME,AliWorkbenchTask.exe
