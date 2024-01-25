@@ -31,3 +31,5 @@ DOMAIN-SUFFIX,auth.btxo.cn
 DOMAIN-SUFFIX,cobalt.solutions
 # cola
 IP-CIDR,185.71.65.217/32
+# underical
+DOMAIN-SUFFIX,unk.is
