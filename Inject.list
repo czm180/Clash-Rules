@@ -33,3 +33,4 @@ DOMAIN-SUFFIX,cobalt.solutions
 IP-CIDR,185.71.65.217/32
 # underical
 DOMAIN-SUFFIX,unk.is
+IP-CIDR,45.155.7.77/32
