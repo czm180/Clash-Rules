@@ -36,3 +36,5 @@ DOMAIN-SUFFIX,unk.is
 IP-CIDR,45.155.7.77/32
 # AVM HWID spoofer
 DOMAIN-SUFFIX,aridekvm.us
+# Engineshit
+DOMAIN-SUFFIX,engineowning.to
