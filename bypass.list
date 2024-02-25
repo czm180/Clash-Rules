@@ -27,3 +27,5 @@ PROCESS-NAME,windmillworker.exe
 PROCESS-NAME,WWCmd.exe
 #Lanzou
 DOMAIN-KEYWORD,lanzo
+# Emby
+DOMAIN-SUFFIX,stream-direct.synn.cc
