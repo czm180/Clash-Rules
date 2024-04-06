@@ -38,9 +38,11 @@ DOMAIN-SUFFIX,shop.pocketuni.cn
 DOMAIN-SUFFIX,umeng.com
 #fanqie novel0
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,ads5-normal-lq.zijieapi.com
-DOMAIN-SUFFIX,ads5-normal-lf.zijieapi.com
-DOMAIN-SUFFIX,ads3-normal-hl.zijieapi.com
+DOMAIN,mssdk3-normal-hl.zijieapi.com
+DOMAIN,ads5-normal-lq.zijieapi.com
+DOMAIN,ads5-normal-lf.zijieapi.com
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,dig.bdurl.net
 #Tieba
 DOMAIN-SUFFIX,ada.baidu.com
 DOMAIN-SUFFIX,cpro.baidu.com
