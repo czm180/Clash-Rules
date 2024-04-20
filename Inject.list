@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,fatality.win
 # gameshit
 DOMAIN-KEYWORD,gamesense
 DOMAIN-KEYWORD,skeet
-# sk33t cr4ck
-DOMAIN-SUFFIX,underical.cc
 # iwwwwwwwwww
 DOMAIN-KEYWORD,interwebz-cheats
 # inf*spoofer
@@ -33,6 +31,7 @@ DOMAIN-SUFFIX,cobalt.solutions
 IP-CIDR,185.71.65.217/32
 # underical
 DOMAIN-SUFFIX,unk.is
+DOMAIN-KEYWORD,underical
 IP-CIDR,45.155.7.77/32
 # AVM HWID spoofer
 DOMAIN-SUFFIX,aridekvm.us
