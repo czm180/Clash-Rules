@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,shop.pocketuni.cn
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,g-api.kwai.com
 #番茄小说
+DOMAIN-KEYWORD,ad-sign
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,bdurl.net
