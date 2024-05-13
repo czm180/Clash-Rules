@@ -39,6 +39,15 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,g-api.kwai.com
 #番茄小说
 DOMAIN-KEYWORD,ad-sign
+DOMAIN,p6-ad.byteimg.com
+DOMAIN-SUFFIX,frontier100-toutiao-lf.fqnovel.com
+DOMAIN-SUFFIX,v3-novelapp.fqnovelvod.com
+DOMAIN-SUFFIX,v6-novelapp.fqnovelvod.com
+DOMAIN-SUFFIX,v26-novelapp.fqnovelvod.com
+DOMAIN-SUFFIX,lf9-app-pkg-sign.bytesmanager.com
+DOMAIN-SUFFIX,p3-novel.byteimg.com
+DOMAIN-SUFFIX,p3-webcast-sign.douyinpic.com
+DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,bdurl.net
