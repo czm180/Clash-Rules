@@ -40,6 +40,10 @@ DOMAIN-SUFFIX,g-api.kwai.com
 #番茄小说
 DOMAIN-KEYWORD,ad-sign
 DOMAIN-SUFFIX,p6-ad.byteimg.com
+DOMAIN-KEYWORD,webcast-sign.douyinpic
+DOMAIN-KEYWORD,applog-lq.fqnovel.com
+DOMAIN-KEYWORD,applog-hl.fqnovel.com
+DOMAIN-SUFFIX,webcast5-open-hl.douyin.com
 DOMAIN-SUFFIX,frontier100-toutiao-lf.fqnovel.com
 DOMAIN-SUFFIX,v3-novelapp.fqnovelvod.com
 DOMAIN-SUFFIX,v6-novelapp.fqnovelvod.com
