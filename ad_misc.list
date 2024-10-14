@@ -1,7 +1,7 @@
 # picacg
 DOMAIN,ad-channel.diwodiwo.xyz
 DOMAIN,ad-display.diwodiwo.xyz
-#pu pocket
+# pu pocket
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,1rtb.net
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,open.e.kuaishou.cn
 DOMAIN-SUFFIX,shop.pocketuni.cn
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,g-api.kwai.com
+DOMAIN-SUFFIX,sigmob.cn
 #番茄小说
 DOMAIN-KEYWORD,ad-sign
 DOMAIN-SUFFIX,p6-ad.byteimg.com
@@ -63,10 +64,6 @@ DOMAIN-SUFFIX,fc5tn.baidu.com
 DOMAIN-SUFFIX,s3m5.fenxi.com
 DOMAIN-SUFFIX,s3m2.nzwgs.com
 DOMAIN-SUFFIX,s3m1.nzwgs.com
-#BiliBili
-DOMAIN-SUFFIX,krxd.net
-DOMAIN-SUFFIX,dl.hdslb.com
-DOMAIN-SUFFIX,appdl-1-drcn.dbankcdn.com
 #From ACL4SSR
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
