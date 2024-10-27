@@ -7,6 +7,7 @@ DOMAIN,stun.parsec.app
 PROCESS-NAME,csgo.exe
 PROCESS-NAME,cs2.exe
 # Sub Links
+DOMAIN-SUFFIX,jpvyyr.xyz
 DOMAIN-SUFFIX,ormroh.xyz
 DOMAIN-SUFFIX,laiiio.xyz
 DOMAIN-SUFFIX,bhaquh.xyz
