@@ -38,3 +38,5 @@ PROCESS-NAME,WWCmd.exe
 DOMAIN-KEYWORD,lanzo
 # Emby
 DOMAIN-SUFFIX,stream-direct.synn.cc
+#speed
+PROCESS-NAME,miaospeed
