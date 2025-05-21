@@ -41,3 +41,4 @@ DOMAIN-SUFFIX,stream-direct.synn.cc
 #speed
 PROCESS-NAME,miaospeed
 PROCESS-NAME,miaospeed.pro
+PROCESS-NAME,frpc
