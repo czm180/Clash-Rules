@@ -1,5 +1,7 @@
 # cls
 IP-CIDR,23.225.71.150/32
+# nexo
+DOMAIN-SUFFIX,nexodma.vip
 # cfx
 DOMAIN-KEYWORD,cfxsecurity
 # Neverwin
