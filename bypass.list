@@ -1,3 +1,7 @@
+# steam-login
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
 # makima
 DOMAIN-SUFFIX,makima.online
 #parsec
