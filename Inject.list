@@ -47,3 +47,5 @@ DOMAIN-SUFFIX,engineowning.to
 DOMAIN-SUFFIX,kernaim.to
 # eo
 DOMAIN-SUFFIX,engineowning.su
+# anon
+IP-CIDR,185.194.177.104/32
