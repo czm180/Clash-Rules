@@ -53,3 +53,4 @@ PROCESS-NAME,miaospeed
 PROCESS-NAME,miaospeed.pro
 PROCESS-NAME,frpc
 IP-CIDR,156.231.117.19/32,no-resolve
+IP-CIDR,172.30.0.10/32,no-resolve
