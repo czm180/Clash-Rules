@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,parkson-market.org
 DOMAIN-SUFFIX,xmancdn.com
 DOMAIN-SUFFIX,xmancdn.net
 DOMAIN-SUFFIX,primehelix.co
+DOMAIN-SUFFIX,mesl.cloud
 IP-CIDR,38.47.221.60/32
 # Qian-Niu
 PROCESS-NAME,AliWorkbench.exe
