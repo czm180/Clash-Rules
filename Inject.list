@@ -50,3 +50,5 @@ DOMAIN-SUFFIX,engineowning.su
 # anon
 IP-CIDR,185.194.177.104/32
 DOMAIN-SUFFIX,zx9.lol
+# iniuria
+DOMAIN-SUFFIX,iniuria.us
