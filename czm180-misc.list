@@ -113,3 +113,4 @@ IP-CIDR,31.94.0.0/16,no-resolve
 IP-CIDR,87.194.0.0/16,no-resolve
 # AI
 DOMAIN-SUFFIX,congmingai.com
+IP-CIDR,162.141.137.0/24,no-resolve
