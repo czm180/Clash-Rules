@@ -63,3 +63,6 @@ IP-CIDR,172.30.0.10/32,no-resolve
 # DOMAIN-SUFFIX,superapi.buzz
 # DOMAIN-KEYWORD,superapi
 DOMAIN,hk.test.superapi.buzz
+# vtt
+PROCESS-NAME,viewturbocore
+PROCESS-NAME,viewturbo
