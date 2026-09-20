@@ -114,3 +114,8 @@ IP-CIDR,87.194.0.0/16,no-resolve
 # AI
 DOMAIN-SUFFIX,congmingai.com
 IP-CIDR,162.141.137.0/24,no-resolve
+
+
+DOMAIN-SUFFIX,bxfzb.com
+IP-CIDR,106.55.49.140/32,no-resolve
+IP-CIDR,119.29.23.156/32,no-resolve
